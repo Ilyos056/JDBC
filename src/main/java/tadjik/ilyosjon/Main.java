@@ -22,6 +22,10 @@ public class Main {
                             3.Update
                             4.Delete
                             """);
+
+
+
+
                     int tanlashuser = scannerInt.nextInt();
                     switch (tanlashuser) {
                         case 1 -> {
